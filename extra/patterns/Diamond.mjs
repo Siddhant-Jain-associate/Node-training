@@ -21,4 +21,6 @@ const Diamond = (size) =>{
      }
 }
 
-Diamond(parseInt(process.argv[2]))
+
+
+export default Diamond;

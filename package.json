@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.13.16"
+  },
+  "devDependencies": {
+    "@babel/node": "^7.13.13",
+    "@babel/preset-env": "^7.13.15"
+  }
 }

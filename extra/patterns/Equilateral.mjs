@@ -10,4 +10,4 @@ const equilateral = (size) => {
     }
 }
 
-equilateral(parseInt(process.argv[2]))
+export default equilateral;
